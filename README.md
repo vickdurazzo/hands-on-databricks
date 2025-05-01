@@ -7,8 +7,6 @@ This repository contains practical exercises and mini-projects developed on the 
 - 🧪 Data exploration and cleaning
 - 🔄 Data transformations with PySpark
 - 🧮 SQL queries on Spark tables
-- 📊 Aggregations and frequency tables
-- 📝 Temporary views and data filtering
 
 ## Tech Stack
 
